@@ -11,3 +11,4 @@ stocks, and manage a portfolio over time.
 The site was built with C and PHP in the backend, and HTML, and CSS with Bootstrap in the front end. 
 
 ![Image of the sites main fucntionality](./screencaps/1.png)
+![Image of the sites main fucntionality](./screencaps/2.png)
