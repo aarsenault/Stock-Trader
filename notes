@@ -1,0 +1,11 @@
+Then (re)start Apache with the below so that it uses ~/workspace/pset7/public as its root.
+
+apache50 start ~/workspace/pset8/public
+
+Next, start CS50 IDE’s database server (MySQL) by executing the below.
+
+mysql50 start
+
+
+*****
+    <?php echo( "<pre>" . var_dump($cash) . "</pre>" ); ?>  
